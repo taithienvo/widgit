@@ -1,0 +1,2 @@
+simulation of leveraging remote to keep track of your branch changes
+so you can pick up where you left off between different machines
